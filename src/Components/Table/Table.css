@@ -1,0 +1,19 @@
+.table-wrapper {
+    max-height: 300px;
+    margin-left: 620px;
+    width: 700px !important;
+    margin-top: -210px;
+    font-size: large;
+  }
+  
+  input[type="text"]{
+    font-size: larger;
+    color: black;
+    font-weight: 20px;
+  }
+  
+  input[type="number"]{
+    font-size: larger;
+    color: black;
+    font-weight: 20px;
+  }
